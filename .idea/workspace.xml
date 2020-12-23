@@ -1,11 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8003e42f-ae18-4745-bde1-f79a1f86a226" name="Default Changelist" comment="" />
+    <list default="true" id="8003e42f-ae18-4745-bde1-f79a1f86a226" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/info/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/info/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/info/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/info/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/info/package.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
@@ -14,6 +23,7 @@
     <auto-save>true</auto-save>
   </component>
   <component name="ProjectId" id="1j93MdPTeCQYnqtlefG1I6DSGWz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -21,6 +31,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Documents and Settings" />
     <property name="nodejs_interpreter_path" value="node" />
@@ -58,7 +69,7 @@
       <workItem from="1603563987675" duration="1738000" />
       <workItem from="1603608618147" duration="2396000" />
       <workItem from="1603739555483" duration="24000" />
-      <workItem from="1608749121569" duration="11287000" />
+      <workItem from="1608749121569" duration="13554000" />
     </task>
     <servers />
   </component>
